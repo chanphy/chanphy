@@ -52,8 +52,6 @@ Started my career as an Android, on the way to hands-on front-end and back-end d
 
 <a href="http://www.github.com/chanphy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chanphy&stroke=0891b2&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=0891b2&currStreakLabel=22c55e&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
-<a href="http://www.github.com/chanphy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=chanphy&bg_color=1c1917&color=0891b2&line=f97316&point=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/abchanphy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
