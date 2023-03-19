@@ -11,7 +11,7 @@ Started my career as an Android Developer, on the way to hands-on front-end and 
 * ✉️  You can contact me at [amazebravochanphy@gmail.com](mailto:amazebravochanphy@gmail.com)
 * 🧠  I'm learning Flutter, Dart, Python ...
 * 🤝  I'm open to collaborating on IoT, AI, Data Analysis.
-* ⚡  I still stay hungry and on the way to be more foolish.
+* ⚡   I'm always hungry for knowledge and striving to learn more.
 
 ### Skills
 
