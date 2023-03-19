@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chanphy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to reach out to me!
 ===============================================================================================================================
 
 Android Developer
 -----------------
 
-Started my career as an Android, on the way to hands-on front-end and back-end development and AWS deployment.
+Started my career as an Android Developer, on the way to hands-on front-end and back-end development and AWS deployment.
 
 * 🌍  I'm based in Xiamen, Now live in Tokyo Bay.
 * 🖥️  See my portfolio at [Not ready to show up 😶](http://github.com/chanphy)
