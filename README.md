@@ -6,10 +6,10 @@ Android Developer
 
 Started my career as an Android Developer, on the way to hands-on front-end and back-end development and AWS deployment.
 
-* 🌍  I'm based in Xiamen, Now live in Tokyo Bay.
+* 🌍  I'm from Xiamen, Now live in Tokyo Bay.
 * 🖥️  See my portfolio at [Not ready to show up 😶](http://github.com/chanphy)
 * ✉️  You can contact me at [amazebravochanphy@gmail.com](mailto:amazebravochanphy@gmail.com)
-* 🧠  I'm learning Flutter, Dart, Python ...
+* 🧠  I'm learning Go, KMP ...
 * 🤝  I'm open to collaborating on IoT, AI, Data Analysis.
 * ⚡   I'm always hungry for knowledge and striving to learn more.
 
