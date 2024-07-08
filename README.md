@@ -9,6 +9,7 @@ Started my career as an Android Developer, on the way to hands-on front-end and 
 * 🌍  I'm from Xiamen, Now live in Tokyo Bay.
 * 🖥️  See my portfolio at [Not ready to show up 😶](http://github.com/chanphy)
 * ✉️  You can contact me at [amazebravochanphy@gmail.com](mailto:amazebravochanphy@gmail.com)
+* 🧠  Main stack on Android/Kotlin/Java, Flutter/Dart, Spring, Vue.js and so on ...
 * 🧠  I'm learning Go, KMP ...
 * 🤝  I'm open to collaborating on IoT, AI, Data Analysis.
 * ⚡   I'm always hungry for knowledge and striving to learn more.
